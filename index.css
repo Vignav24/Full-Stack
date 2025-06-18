@@ -1,0 +1,8 @@
+.line{
+    background-color: blue;
+    border: 2px solid brown;
+    padding: 60px; 
+}
+p:hover{
+    background-color: aqua;
+}
